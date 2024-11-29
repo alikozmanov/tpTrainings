@@ -1,0 +1,36 @@
+.nav {
+  background-color: white;
+  padding: 5px 40px !important;
+}
+
+.container_nav {
+  margin-top: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 0.8rem;
+  margin-bottom: 50px;
+}
+
+.nav {
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.btn {
+  background-color: #96bb7c;
+  padding: 5px 14px;
+  color: white;
+}
+
+.is-active {
+  color: black !important;
+  font-weight: bold;
+}
+.container_disconnection {
+  display: flex;
+}
+
+.user-name {
+  margin-right: 5px;
+}

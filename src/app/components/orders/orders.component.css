@@ -1,0 +1,33 @@
+h1{
+    background-color: rgb(25, 129, 208);
+    color: #ffffff;
+    text-align: center;
+}
+.container{
+   
+    color: #000000;
+}
+.order-summary {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.order-summary h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.order-summary table {
+    width: 100%;
+}
+.order-summary th, .order-summary td {
+    padding: 10px;
+    text-align: left;
+}
+.order-summary .total {
+    font-weight: bold;
+}
+.client-info {
+    margin-bottom: 20px;
+}
